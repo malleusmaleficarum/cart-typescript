@@ -1,3 +1,3 @@
 ## Stack
 
-Vite, React, Typescript
+Vite, React, Typescript, Tailwind
